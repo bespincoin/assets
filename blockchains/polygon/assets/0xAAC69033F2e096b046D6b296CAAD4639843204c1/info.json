@@ -1,16 +1,12 @@
 {
-  "name": "Wrapped Bespin",
-  "symbol": "wBSP",
-  "type": "ERC20",
-  "decimals": 18,
-  "description": "Wrapped Bespin (wBSP) is a 1:1 backed ERC-20 token on Polygon representing native BSP cryptocurrency. Bridge native BSP to wBSP for trading on Polygon DEXs.",
-  "website": "https://bespincoin.com",
-  "explorer": "https://polygonscan.com/token/0xAAC69033F2e096b046D6b296CAAD4639843204c1",
-  "status": "active",
-  "id": "0xAAC69033F2e096b046D6b296CAAD4639843204c1",
-  "links": [
-    { "name": "twitter", "url": "https://x.com/bespincoin" },
-    { "name": "telegram", "url": "https://t.me/BespinWalletBot" },
-    { "name": "github", "url": "https://github.com/bespincoin" }
-  ]
+    "name": "Wrapped Bespin",
+    "symbol": "wBSP",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Wrapped Bespin (wBSP) is a 1:1 backed ERC-20 token on Polygon representing native BSP cryptocurrency",
+    "website": "https://bespincoin.com",
+    "explorer": "https://polygonscan.com/token/0xAAC69033F2e096b046D6b296CAAD4639843204c1",
+    "status": "active",
+    "id": "0xAAC69033F2e096b046D6b296CAAD4639843204c1",
+    "tags": ["wrapped", "defi", "polygon"]
 }
